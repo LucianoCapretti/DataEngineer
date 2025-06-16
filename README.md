@@ -50,6 +50,22 @@ This journey's going to be broad, but the ultimate goal is to steer towards AI/M
 * **Data Science Python kit:** Jupyter Notebooks, Pandas, NumPy, Matplotlib, Seaborn – my trusty sidekicks for data exploration.
 * **Deep thoughts:** Neural Networks, CNNs, RNNs – unraveling the mysteries of deep learning.
 
+--- 
+
+### My Guiding Roadmaps 🗺️
+
+To keep my learning structured and ensure I cover foundational concepts before diving deeper, I'll be heavily referencing and following a couple of excellent roadmaps from [roadmap.sh](https://roadmap.sh):
+
+1.  **[Data Analyst Roadmap](https://roadmap.sh/data-analyst):**
+    After careful consideration, I've decided to tackle this roadmap first. While my ultimate goal is Data Engineering (and later AI/ML), I believe mastering the analytical foundations laid out here will be invaluable. It will ensure I build a solid understanding of data, from SQL and Python fundamentals to data visualization and statistics, which is crucial for building robust data pipelines and effectively understanding the data requirements for advanced analytics and machine learning.
+
+2.  **[AI Engineer Roadmap](https://roadmap.sh/ai-engineer):**
+    Once I've established a strong foundation with the Data Analyst roadmap and solidified my core Data Engineering skills, my next major structured learning phase will involve this AI Engineer roadmap. This will guide my specialization towards building, deploying, and maintaining AI/ML systems, bridging the gap between data engineering infrastructure and intelligent applications.
+
+These roadmaps will serve as comprehensive guides to ensure I'm building a solid and well-rounded skillset for my journey.
+
+
+
 ---
 
 ## Let's Link Up! 🤝
@@ -61,3 +77,5 @@ Always keen to chat with fellow data enthusiasts, swap tips, or even team up on 
 **"The only way to do great work is to love what you do."** - Steve Jobs (Still a classic, even in a casual repo!)
 
 ---
+
+
